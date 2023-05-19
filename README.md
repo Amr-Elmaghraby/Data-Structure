@@ -14,7 +14,7 @@ This repository serves as a comprehensive collection of implementations and exam
 
 ## Overview
 
-Understanding data structures is essential for efficient software development and algorithm design. This repository aims to provide a curated collection of data structure implementations, along with examples, that will help you grasp the fundamental concepts and principles.
+Understanding data structures is essential for efficient software development and algorithm design. This repository aims to provide a curated collection of data structure implementations written in [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) along with examples, that will help you grasp the fundamental concepts and principles. 
 
 ## Implemented Data Structures
 
