@@ -1,0 +1,48 @@
+
+import java.util.Scanner;
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+interface ICalculator {
+	public int add(int x, int y);
+	public float divide(int x, int y) throws RuntimeException;
+}
+class Calculator implements ICalculator{
+    public int add(int x,int y){
+        int z = x + y;
+        return z;
+    }
+    public float divide(int x, int y){
+        float y = (float) y;
+        float z = x + y;
+        return z; 
+  }
+class aee(){
+    public static void main(String[] args){
+        // defining operator , first and second numbers
+        char op;
+        double num1, num2;
+        // creating an object of Scanner class
+        Scanner inp = new Scanner(System.in);
+        //taking input from user, defining first number then operation then second number
+        num1 = inp.nextDouble();
+        op = inp.next().charAt(0);
+        num2 = inp.nextDouble();
+
+        Calculator Obj = new Calculator();
+        switch (op){
+            case '+':
+                int out =Obj.add(num1,num2);
+                System.out.println(out);
+                break;
+            case '/':
+                float out Obj.divide(num1,num2);
+                System.out.println(out);
+                break;
+
+        }
+    }    
+}
