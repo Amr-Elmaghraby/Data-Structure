@@ -21,7 +21,8 @@ Understanding data structures is essential for efficient software development an
 The repository currently includes implementations for the following data structures:
 
 - Array
-- Linked List
+- Single Linked List
+- Double Linked List
 - Stack
 - Queue
 
