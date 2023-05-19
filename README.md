@@ -9,7 +9,7 @@ This repository serves as a comprehensive collection of implementations and exam
 - [Overview](#overview)
 - [Implemented Data Structures](#implemented-data-structures)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributers](#contributers)
 - [License](#license)
 
 ## Overview
@@ -39,6 +39,6 @@ Feel free to explore the code, experiment with different functionalities, and in
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the [MIT License](https://github.com/Amr-Elmaghraby/Data-Structure/blob/main/LICENSE.md). You are free to use, modify, and distribute the code in this repository for both commercial and non-commercial purposes. See the [LICENSE](https://github.com/Amr-Elmaghraby/Data-Structure/blob/main/LICENSE.md) file for more details.
 
 Happy exploring and coding with data structures!
